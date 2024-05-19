@@ -32,7 +32,7 @@ Depois de abrir o arquivo `index.html` no seu navegador, você verá uma coleç�
 
 ## Contribuição
 
-Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou novas funcionalidades, por favor, abra uma issue ou envie um pull request. Siga estas etapas para contribuir:
+Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou novas funcionalidades, por favor, abra uma issue ou envie um pull request.
 
 
 ![projeto](https://github.com/xndresa/card/assets/141786353/f66792ec-a7f1-4712-b320-3c3dcc38c443)
